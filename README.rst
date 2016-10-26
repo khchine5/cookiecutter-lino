@@ -1,4 +1,4 @@
-Cookiecutter Django
+Cookiecutter Lino
 =======================
 
 
